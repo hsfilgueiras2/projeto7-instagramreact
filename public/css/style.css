@@ -207,6 +207,9 @@ body {
   height: 20px;
   margin-right: 10px;
 }
+.vermelho{
+  color:red;
+}
 
 .post:last-child {
   margin-bottom: 18px;
